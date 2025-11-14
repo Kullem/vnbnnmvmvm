@@ -1,0 +1,43 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.titel{
+    color: orange;
+    background-image: url(header.png);
+    height: 130px;
+    font-size: xx-large;
+}
+.menu{
+    background-color: antiquewhite;
+    height: 90px;
+    font-size: x-large;
+}
+.gul_menu{
+    background-color: yellow;
+    height: 90px;
+    font-size: large;
+}
+.form{
+float: left;
+width: 35%;
+border: 5px solid aqua;
+text-align: center;
+border-radius: 20px;
+}
+.huvudtext{
+    background-color: lightblue;
+    float:right;
+    width: 60%;
+    color: blue;
+}
+.footer{
+    width: 1600px;
+    height: 100px;
+}
+.knapp{
+    color: white;
+    background-color: blue;
+}
+.bild{
+    border: solid white
+}
